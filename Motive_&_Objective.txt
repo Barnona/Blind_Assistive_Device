@@ -1,5 +1,7 @@
 Motive
-Millions of visually impaired individuals face challenges in navigating their surroundings safely. Traditional mobility aids like canes and guide dogs have limitations in detecting obstacles effectively. Our project aims to leverage technology to enhance the independence and safety of blind individuals by providing real-time obstacle detection.
+Millions of visually impaired individuals face challenges in navigating their surroundings safely.
+Traditional mobility aids like canes and guide dogs have limitations in detecting obstacles effectively.
+Our project aims to leverage technology to enhance the independence and safety of blind individuals by providing real-time obstacle detection.
 Objective
 •	Develop a smart assistive device that helps visually impaired people detect obstacles and navigate safely.
 •	Integrate a sensor (ultrasonic sensor) to identify and alert users about obstacles in their path.
