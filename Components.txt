@@ -1,0 +1,5 @@
+Arduino UNO
+Ultrasonic Sensor
+Buzzer
+ICR 18650-22F Li-ion Battery x 2
+2 x 3.7V 18650 Battery Holder
