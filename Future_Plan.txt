@@ -1,0 +1,6 @@
+Future of this Project
+•	Level Sensing: If there is an open manhole or pit, the blind person will be alerted. 
+•	Location Sharing: By integrating the GPS and GSM modules, the blind person can share their location with the caretaker if needed.
+•	Voice Assistance: Utilizing a voice assistant device instead of a buzzer. It will also help with directional instructions.
+•	Accident detection: Introducing Fall detection sensors to detect accidents and send automatic alerts.
+•	Fall & Health Monitoring: Integrating accelerometers and heart rate sensors to detect falls, fatigue, or irregularities.
